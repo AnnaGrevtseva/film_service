@@ -1,9 +1,10 @@
 # Film service
 
 ## CLI
-With this application, you can grade and review films, see film rating.
+API for rating and reviewing movies(with user authentication), see movie rating. To interact with the application, go to http://localhost:5000/docs, where all documentation and available features are collected.
 ### Running application
-To start the application, the user needs to enter  ```python -m app ``` 
+To start the application, the user needs 
+to activate virtual environment and enter  ```python -m app ``` 
 in command line (cmd).
 
 For example:
